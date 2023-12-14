@@ -1,8 +1,6 @@
 # lambda-stream-practice-study
 
-lambda, stream 문제 + 풀이 저장소
-
-
+람다, 스트림 문제 + 풀이 저장소
 
 
 <br/>
