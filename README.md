@@ -11,7 +11,7 @@
 
 - 매주 x요일 x시에 디스코드로 진행합니다.
 
-    - 링크 : https://discord.gg/KC8deweW
+    - 링크 : https://discord.gg/VTtxKZ4F
 
 <br/>
 
