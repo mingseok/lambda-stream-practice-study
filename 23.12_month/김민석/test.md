@@ -49,10 +49,10 @@ List<String> list = Arrays.asList("a1", "a2", "b1", "b2", "c1", "c2");
 
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 1, 3, 3, 2, 4);
-							numbers.stream()
-							       .filter(i -> i % 2 == 0)
-							       .distinct()
-							       .forEach(System.out::println);
+		numbers.stream()
+		       .filter(i -> i % 2 == 0)
+		       .distinct()
+		       .forEach(System.out::println);
 ```
 
 <br/>
